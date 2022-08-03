@@ -1,0 +1,10 @@
+# Files to ignore
+.xlsx
+.Rhistory
+.RData
+
+
+# Folders to ignore
+data/
+.ipynb_checkpoints/
+
